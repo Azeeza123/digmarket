@@ -38,6 +38,9 @@ in attracting and keeping users.
 Deployment and Upkeep
 After the development stage is finished, we will use a reputable hosting
 company to launch our website. Version control, like Git, will also be used to
+
+
+
 make sure that all website modifications are monitored and documented. In
 order to keep the website current and functional, we will also create a
 maintenance schedule.
@@ -49,3 +52,7 @@ order to make sure the website is functional and maintainable, we have also
 included testing frameworks and version control. I am confident that by
 utilizing these technologies, our firm will have a website that successfully
 advertises our services and draws in new customers.
+
+references:https://remixicon.com/
+https://www.npmjs.com/package/slick-carousel
+
